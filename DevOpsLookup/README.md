@@ -2,8 +2,6 @@
 
 Azure DevOps -teknologiaskanneri on sovellus, joka skannaa Azure DevOps -organisaation repositoriot ja tunnistaa niissä käytetyt teknologiat. Sovellus auttaa organisaatioita hallitsemaan teknistä velkaa ja saamaan kokonaiskuvan käytetyistä teknologioista.
 
-![Azure DevOps -teknologiaskanneri](docs/images/dashboard-screenshot.png)
-
 ## Ominaisuudet
 
 - **Automaattinen skannaus**: Skannaa Azure DevOps -repositoriot automaattisesti ja tunnistaa käytetyt teknologiat
