@@ -113,15 +113,3 @@ Katso tarkemmat ohjeet [deployment-guide.md](docs/deployment-guide.md) -tiedosto
 cd DevOpsLookup/src/WebApp
 npm test
 ```
-
-## Osallistuminen
-
-Katso [CONTRIBUTING.md](CONTRIBUTING.md) -tiedosto ohjeineen projektiin osallistumiseen.
-
-## Lisenssi
-
-Tämä projekti on lisensoitu MIT-lisenssillä - katso [LICENSE](LICENSE) -tiedosto tarkempia tietoja varten.
-
-## Yhteystiedot
-
-Jos sinulla on kysyttävää tai ehdotuksia, avaa GitHub Issue tai ota yhteyttä projektin ylläpitäjiin. 
